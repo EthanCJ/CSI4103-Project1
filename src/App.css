@@ -7,6 +7,26 @@
   pointer-events: none;
 }
 
+.headerPicture{
+  padding: 2rem 2rem 2rem;
+  align-self: center;
+  width: 100%;
+  height:auto;
+}
+
+.hidden{
+  display: none;
+}
+
+.cardFormat{
+  width: 30%;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10%;
+  align-self: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
